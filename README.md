@@ -2,13 +2,15 @@
 
 #### My name is Kevin! I am a Full-Stack Software Engineering student specializing in backend architecture, database design, and intelligent web applications. I love building clean, scalable solutions and integrating AI capabilities into modern web workflows.<br>Always building, always learning. Explore my repositories below to see what I'm working on!
 
-## Current Tech-Stack
+# Current Tech-Stack
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,fastapi,sqlite,html,css,ai,raspberrypi,windows,linux,apple)](https://skillicons.dev)
+
+---
 
 # Featured Projects
 
-## Cyber Brief
-<a href="https://github.com/K3V1N32/cyber-brief-podcast"><img src="CyberBrief.png" width="480px" height="240px"/></a>
+## [Cyber Brief](https://github.com/K3V1N32/cyber-brief-podcast)
+<picture><img src="CyberBrief.png" width="480px" height="240px"/></picture>
 
 *An automated pipeline for aggregating, synthesizing, and broadcasting daily cybersecurity intelligence*
 * **Tech Stack:** Python, Edge TTS, PyDub, XML, Web Infrastructure
@@ -20,8 +22,8 @@
 
 ---
 
-## Clean Tasks
-<a href="https://github.com/K3V1N32/CleanTasks"><img src="CleanTasks.png" width="500px" height="350px"></a>
+## [Clean Tasks](https://github.com/K3V1N32/CleanTasks)
+<picture><img src="CleanTasks.png" width="500px" height="350px"></picture>
 
 *Extensible full-stack task management powered by an optimized, developer-friendly REST API backend with AI Task Summary Integration*
 * **Tech Stack:** Python, FastAPI, SQLAlchemy, JavaScript, HTML5/CSS3
