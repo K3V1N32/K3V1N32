@@ -1,6 +1,6 @@
 # \<Hello World\>
 
-#### My name is Kevin! I'm a Full-Stack Software Engineering student specializing in backend architecture, database design, and intelligent web applications. I love building clean scalable solutions and integrating AI capabilities into modern web workflows.<br>Always building, always learning. Explore my repositories below to see what I'm working on!
+#### My name is Kevin! I'm a Full-Stack Software Engineering student specializing in backend architecture, database design, and intelligent web applications. I love building clean, scalable solutions and integrating AI capabilities into modern web workflows.<br>I'm always building something new and learning new skills. Explore my repositories below to see what I'm currently working on!
 
 # Current Tech-Stack
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,fastapi,sqlite,html,css,ai,raspberrypi,windows,linux,apple)](https://skillicons.dev)
@@ -10,7 +10,7 @@
 # Featured Projects
 
 ## [Cyber Brief](https://github.com/K3V1N32/cyber-brief-podcast)
-<picture><img src="CyberBrief.png" width="480px" height="240px"/></picture>
+<picture><img src="CyberBrief.png" width="480px" height="240px" title="A screenshot of the web interface of cyber brief"/></picture>
 
 *An automated pipeline for aggregating, synthesizing, and broadcasting daily cybersecurity intelligence*
 * **Tech Stack:** Python, Edge TTS, PyDub, XML, Web Infrastructure
