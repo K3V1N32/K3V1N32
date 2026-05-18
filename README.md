@@ -1,6 +1,6 @@
 # \<Hello World\>
 
-#### My name is Kevin! I am a Full-Stack Software Engineering student specializing in backend architecture, database design, and intelligent web applications. I love building clean, scalable solutions and integrating AI capabilities into modern web workflows.<br>Always building, always learning. Explore my repositories below to see what I'm working on!
+#### My name is Kevin! I'm a Full-Stack Software Engineering student specializing in backend architecture, database design, and intelligent web applications. I love building clean scalable solutions and integrating AI capabilities into modern web workflows.<br>Always building, always learning. Explore my repositories below to see what I'm working on!
 
 # Current Tech-Stack
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,fastapi,sqlite,html,css,ai,raspberrypi,windows,linux,apple)](https://skillicons.dev)
