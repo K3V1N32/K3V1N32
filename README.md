@@ -10,7 +10,7 @@
 # Featured Projects
 
 ## [Cyber Brief](https://github.com/K3V1N32/cyber-brief-podcast)
-<picture><img src="CyberBrief.png" width="480px" height="240px" title="A screenshot of the web interface of cyber brief"/></picture>
+<picture><img src="CyberBrief.png" width="480px" height="240px" title="A screenshot of the web interface of Cyber Brief"/></picture>
 
 *An automated pipeline for aggregating, synthesizing, and broadcasting daily cybersecurity intelligence*
 * **Tech Stack:** Python, Edge TTS, PyDub, XML, Web Infrastructure
@@ -22,8 +22,8 @@
 
 ---
 
-## [Clean Tasks](https://github.com/K3V1N32/CleanTasks)
-<picture><img src="CleanTasks.png" width="500px" height="350px"></picture>
+## [CleanTasks](https://github.com/K3V1N32/CleanTasks)
+<picture><img src="CleanTasks.png" width="500px" height="350px" title="A screenshot of the web interface of CleanTasks"></picture>
 
 *Extensible full-stack task management powered by an optimized, developer-friendly REST API backend with AI Task Summary Integration*
 * **Tech Stack:** Python, FastAPI, SQLAlchemy, JavaScript, HTML5/CSS3
